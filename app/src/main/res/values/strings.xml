@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Gesti-n Ebenezer</string>
+    <!-- Section Names -->
+    <string name="section_vehicles">Gestionar Vehículos</string>
+    <string name="section_employees">Gestionar Empleados</string>
+    <string name="section_home">Inicio</string>
+    
+    <!-- Vehicle States -->
+    <string name="state_repair">En reparación</string>
+    <string name="state_active">Activo</string>
+    <string name="state_on_road">En camino</string>
+    
+    <!-- Employee Status -->
+    <string name="status_exit">Salir</string>
+    <string name="status_on_road">En camino</string>
+    <string name="status_resting">Descansando</string>
+    <string name="status_finished">Finalizado</string>
+</resources>

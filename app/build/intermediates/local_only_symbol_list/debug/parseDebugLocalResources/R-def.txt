@@ -1,0 +1,21 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+string app_name
+string section_employees
+string section_home
+string section_vehicles
+string state_active
+string state_on_road
+string state_repair
+string status_exit
+string status_finished
+string status_on_road
+string status_resting
+style Theme.GestinEbenezer
